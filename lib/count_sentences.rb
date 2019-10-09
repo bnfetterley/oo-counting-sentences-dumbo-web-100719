@@ -1,7 +1,9 @@
 
 
 class String
+  puts "it is working"
 require 'pry'
+
   def sentence?
    if self.end_with?(".")
     return true 
