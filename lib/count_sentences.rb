@@ -26,7 +26,7 @@ require 'pry'
    else 
      return false 
   end 
-  end
+end
 
   def count_sentences
     puts self.split(",","!",".")
