@@ -28,7 +28,6 @@ class String
 
   def count_sentences
     puts self.split(",","!",".")
-    
-    binding.pry
+  binding.pry
   end
 end
