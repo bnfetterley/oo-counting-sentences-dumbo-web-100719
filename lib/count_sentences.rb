@@ -1,7 +1,7 @@
 
 
 class String
-  puts "it is working"
+  
 require 'pry'
 
   def sentence?
